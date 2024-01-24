@@ -1,0 +1,7 @@
+@import "./var.css";  /*@import rule allows you to import a style sheet into another style sheet. The @import rule must be at the top of the document */
+.App{
+    background-color: var(--color-bg);
+    width: 100%;
+    height:100%
+
+}
