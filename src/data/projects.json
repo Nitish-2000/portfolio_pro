@@ -1,0 +1,42 @@
+[
+    {
+      "title": "Data Visualization dadhboard",
+      "imageSrc": "projects/project1.png",
+      "description": "Developed a dynamic data visualization dashboard using Chart.js, providing insightful charts and graphs for effective analysis.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://visualization-data-chart.netlify.app/",
+      "source": "https://github.com/Nitish-2000/Data-Visualization"
+    },
+    {
+      "title": "ChatGPT Integration",
+      "imageSrc": "projects/project2.png",
+      "description": "Integrated OpenAI's GPT language model seamlessly into a React application, enabling natural language processing and generation within the user interface.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://chatgpt-integration-reactjs.netlify.app/",
+      "source": "https://github.com/Nitish-2000/Chat_GPT_Integration/tree/master"
+    },
+    {
+      "title": "Chat Application",
+      "imageSrc": "projects/project3.png",
+      "description": " Developed a real-time messaging platform using Socket.IO, enabling instant bidirectional communication and message broadcasting between users. ",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://socket-io-chat-application.netlify.app/",
+      "source": "https://github.com/Nitish-2000/Socket-IO-Chat-Application"
+    },
+     {
+      "title": "Task Manager",
+      "imageSrc": "projects/project4.png",
+      "description": "Created an efficient task management application with features for organizing, prioritizing, and tracking tasks.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://task-managing-webapp.netlify.app/",
+      "source": "https://github.com/Nitish-2000/Task-Manager"
+    },
+    {
+      "title": "Birthdate Analyzer",
+      "imageSrc": "projects/project5.png",
+      "description": "This application facilitates the precise computation of an age based on their date of birth. Ensuring  efficient user experience.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://age-calculator-web-application.netlify.app/",
+      "source": "https://github.com/Nitish-2000/Age-Calculator-updated"
+    }
+  ]

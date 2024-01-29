@@ -1,0 +1,34 @@
+[
+  {
+    "role":"Salesforce Administrator and Platform developer",
+    "organisation": "",
+    "startDate": "2023",
+    "endDate": "2023",
+    "experiences": "Edureka Certification Training",
+    "imageSrc": "history/edureka.png"
+  },
+    {
+      "role": "Bachelor's in Computer Science",
+      "organisation": "",
+      "startDate": "2017",
+      "endDate": "2021,    CGPA-7.8.  ",
+      "experiences": "K.S.Rangasamy College of Technology",
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Higher Secondary Education",
+      "organisation": "",
+      "startDate": "2016",
+      "endDate": "2017,   Score-89.6%",
+      "experiences": "Shri Vidhya bharathi Matric School",
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Secondary School Education",
+      "organisation": "",
+      "startDate": "2014",
+      "endDate": "2015,  Score - 97%",
+      "experiences": "Shri Vidhya bharathi Matric School",
+      "imageSrc": "history/netflix.png"
+    }
+  ] 

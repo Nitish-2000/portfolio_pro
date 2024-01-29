@@ -1,0 +1,39 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node js",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "Express",
+      "imageSrc": "skills/node.png"
+    },
+    
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title":"Github",
+      "imageSrc":"skills/github.png"
+    },
+    {
+      "title":"Bootstrap",
+      "imageSrc":"skills/bootstrap.png"
+    }
+  ]
