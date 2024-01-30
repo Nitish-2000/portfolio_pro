@@ -22,6 +22,10 @@ function Contact() {
             <img src={getImageUrl("contact/githubIcon.png")} alt = "Github_Icon"/>
             <a href="https://github.com/Nitish-2000" target='blank'>Github</a>
         </li>
+        <li className={styles.link}>
+            <img src={getImageUrl("contact/cv1.jpg")} alt = "Resume_Icon"/>
+            <a href="../../../asserts/resume/Nitish_Profile - Google Docs.pdf" download='Nitish_Profile - Google Docs.pdf'>Check Resume</a>
+        </li>
        </ul>
     </footer>
   )
