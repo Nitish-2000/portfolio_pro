@@ -24,7 +24,7 @@ function Contact() {
         </li>
         <li className={styles.link}>
             <img src={getImageUrl("contact/cv1.jpg")} alt = "Resume_Icon"/>
-            <a href="../../../asserts/resume/Nitish_Profile - Google Docs.pdf" download='Nitish_Profile - Google Docs.pdf'>Check Resume</a>
+            <a href="https://drive.google.com/file/d/1-rE3w1rAyhIGeJeN1F5H9nEsOhT1w2zI/view?usp=sharing" target="_blank">Check Resume</a>
         </li>
        </ul>
     </footer>
