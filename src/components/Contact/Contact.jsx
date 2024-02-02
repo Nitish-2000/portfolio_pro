@@ -24,11 +24,11 @@ function Contact() {
         </li>
         <li className={styles.link}>
             <img src={getImageUrl("contact/cv1.jpg")} alt = "Resume_Icon"/>
-            <a href="https://docs.google.com/document/d/1TRlpsrDH9nfD0UZjPh4894Zc_7VIIj1vMwzmN-rrZGw/edit?usp=sharing" target="_blank">Check Resume</a>
+            <a href="https://drive.google.com/file/d/1kyGhAV4ZcjNRjEQGyYrPz5zj6AEzyQlG/view?usp=sharing" target="_blank">Check Resume</a>
         </li>
        </ul>
     </footer>
   )
 }
 
-export default Contacthttps;
+export default Contact;
