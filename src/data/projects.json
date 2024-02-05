@@ -1,4 +1,12 @@
 [
+  {
+    "title": "Web Blogging Application",
+    "imageSrc": "projects/blogimage.png",
+    "description": "An full-stack blog application leverages  Express and Mongoose for server setup . React is employed for the frontend,featuring reusable components",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://web-blogging.netlify.app/",
+    "source": "https://github.com/stars/Nitish-2000/lists/web-blogging"
+  },
     {
       "title": "Data Visualization dadhboard",
       "imageSrc": "projects/project1.png",
@@ -26,7 +34,7 @@
      {
       "title": "Task Manager",
       "imageSrc": "projects/project4.png",
-      "description": "Created an efficient task management application with features for organizing, prioritizing, and tracking tasks.",
+      "description": "Created an efficient task management application with features for organizing, prioritizing, and tracking tasks for seamless organization and productivity..",
       "skills": ["React", "Express", "Node"],
       "demo": "https://task-managing-webapp.netlify.app/",
       "source": "https://github.com/Nitish-2000/Task-Manager"
@@ -34,7 +42,7 @@
     {
       "title": "Birthdate Analyzer",
       "imageSrc": "projects/project5.png",
-      "description": "This application facilitates the precise computation of an age based on their date of birth. Ensuring  efficient user experience.",
+      "description": "This application facilitates the precise computation of an age based on their date of birth. Ensuring  efficient user experience understanding of one's potential life path..",
       "skills": ["React", "Express", "Node"],
       "demo": "https://age-calculator-web-application.netlify.app/",
       "source": "https://github.com/Nitish-2000/Age-Calculator-updated"
